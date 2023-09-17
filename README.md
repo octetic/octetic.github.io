@@ -1,2 +1,1 @@
-# octetic.github.io
-Landing page
+octetic.com
